@@ -10,6 +10,9 @@ Microservices Rezepte
 Diese Broschüre zeigt Technologie-Rezepte für die Implementierung von
 Microservices. Die Beispiele stehen als Code zum Download bereit.
 
+<img src="images/rezepte.jpg" width="50%" /> 
+
+
 ## Inhalt
 
 * Was sind Microservices?
