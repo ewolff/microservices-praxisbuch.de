@@ -43,3 +43,9 @@ Mobi (Kindle). Das eBook ist nicht durch DRM (digital rights
 management) geschützt.
 
 <https://leanpub.com/microservices-rezepte/>
+
+Ansonsten gibt es die kostenpflichtige Kindle- und Papier-Version bei Amazon:
+
+<center>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=springbuch-21&marketplace=amazon&region=DE&placement=1979140022&asins=1979140022&linkId=ae077ac5bb743771250ea8e0ac3f447c&show_border=true&link_opens_in_new_window=true"></iframe>
+</center>
