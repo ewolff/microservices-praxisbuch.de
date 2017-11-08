@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Microservices-Praxisuch"
-description: "Microservices-Praxisuch von Eberhard Wolff"
+title: "Microservices-Praxisbuch"
+description: "Microservices-Praxisbuch von Eberhard Wolff"
 ---
 
 Microservices
