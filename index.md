@@ -11,6 +11,8 @@ Microservices
 
 ## Das Buch
 
+*Erscheint voraussichtlich 2018*
+
 Technologie für Microservices gibt es viele. Dieses Buch zeigt die
 Grundlagen von Microservices, die Konzepte der Technologien und
 schließlich konkrete Rezepte mit Technologien wie Client- und
