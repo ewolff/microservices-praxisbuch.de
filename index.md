@@ -32,4 +32,3 @@ er über hundert Artikel und Bücher geschrieben und als Sprecher auf
 internationalen Konferenzen vorgetragen. Sein technologischer
 Schwerpunkt liegt auf modernen Architekturansätzen – Cloud, Continuous
 Delivery, DevOps, Microservices oder NoSQL spielen oft eine Rolle.
-Nothing to be seen here.
