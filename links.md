@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "Microservices-Buch"
-description: "Links zum Microservices-Buch"
+title: "Microservices-Praxisbuch - Links"
+description: "Links zum Microservices-Praxisbuch"
 ---
 
-Microservices-Buch - Links
+Microservices-Praxisbuch - Links
 ---
 
 Hier noch einige Links:
 
-* [innoQ](http://innoq.com) ist der Arbeitgeber des Autors
+* [INNOQ](http://innoq.com) ist der Arbeitgeber des Autors
 
 * [Eberhard Wolff](http://twitter.com/ewolff) bei Twitter
 

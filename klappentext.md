@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Microservices-Buch - Klappentext"
-description: "Klappentext und Beschreibung des Microservices-Buchs"
+title: "Microservices-Praxisbuch - Klappentext"
+description: "Klappentext des Microservices-Praxisbuchs"
 ---
 
 Klappentext

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Microservices-Buch - Leseproben"
-description: "Leseproben des Microservices-Buchs"
+title: "Microservices-Praxisbuch - Leseproben"
+description: "Leseproben des Microservices-Praxisbuchs"
 ---
 
 Leseproben

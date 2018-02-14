@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Microservices-Praxisbucg - KOSTENLOSE Rezepte"
+title: "Microservices-Praxisbuch - KOSTENLOSE Rezepte"
 description: "Die kostenlosen Microservices Rezepte"
 ---
 
