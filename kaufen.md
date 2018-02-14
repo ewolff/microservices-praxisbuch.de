@@ -22,3 +22,24 @@ Neben dem Microservices-Praxisbuch gibt es noch weitere Werke von Eberhard Wolff
 </iframe>
 
 </center>
+
+## Direkt beim dpunkt-Verlag
+
+Auch als E-Book erhältlich
+
+<center>
+<p>
+<a href="http://www.dpunkt.de/book_details.php?id=5026&ref=1008"><img
+      src="https://www.dpunkt.de/common/images/cover_masterid/300/12181.jpg" width="120"
+      alt="Microservices Cover" />
+</a>
+<a href="https://www.dpunkt.de/book_details.php?id=13065&ref=1008"><img
+      src="https://www.dpunkt.de/common/images/cover_masterid/300/13065.jpg" width="120"
+      alt="Microservices Praxisbuch Cover" />
+</a>
+<a href="http://www.dpunkt.de/book_details.php?id=5797&ref=1008"><img
+      src="https://www.dpunkt.de/common/images/cover_masterid/300/12506.jpg" width="120"
+      alt="Continuous Delivery Cover" />
+</a>
+</p>
+</center>
