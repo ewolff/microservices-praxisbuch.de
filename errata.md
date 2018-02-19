@@ -13,4 +13,8 @@ Errata
   werden. Das implementiert das Beispiel aber nicht..
 
 * 15.8 "Sonst muss der Microservice explizit in Eureka gesucht
-  werden." Er müsste in Consul gesucht werden, nicht in Eureka.
+werden." Er müsste in *Consul* gesucht werden, nicht in Eureka.
+
+* 15.8 "Erzeuge im docker-compose.yml einen Link vom Container mit dem
+neuen Service zum Container eureka." Der Link muss zum Container
+*consul* gehen, nicht eureka.
