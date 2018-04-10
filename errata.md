@@ -20,4 +20,7 @@ neuen Service zum Container eureka." Der Link muss zum Container
 *consul* gehen, nicht eureka.
 
 * 15.8 "Beobachte die Logs des Order-Microservice mit docker logs -f
-  ms_order_1" Der Container heißt *msconsul_order_1*.
+ms_order_1" Der Container heißt *msconsul_order_1*.
+
+* 17.3 Im Listing steht `kubectl run apache`. Es sollte `kubectl run
+  catalog` heißen.
