@@ -7,6 +7,10 @@ description: Errata für das Microservices-Praxisbuch
 Errata
 ---
 
+* 11.2.4 "Es gibt also keine weiteren Header, wie dies bei vielen
+  anderen MOMs der Fall ist." Tatsächlich unterstützt Kafka
+  mittlerweile Header.
+
 * 14.2.1 "Der Server ist ein WAR (Web Archive). Mit diesem WAR kann
   Eureka auf einem beliebigen Java-Webserver ausgeführt werden." Der
   Eureka-Server ist ein JAR. Eureka kann auch als WAR ausgeliefert
