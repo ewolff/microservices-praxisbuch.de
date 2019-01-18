@@ -7,6 +7,13 @@ description: Errata für das Microservices-Praxisbuch
 Errata
 ---
 
+* 2.1.4 Upstream / Downstream: Die Darstellung ist falsch. Upstream
+  ist ein Team, das den Erfolg eines Downstream-Teams negativ
+  beeinflussen kann. Downstream hingegen kann den Erfolg des
+  Upstream-Teams nicht beeinflussen. Es ist keine Aussage über das
+  Bereitstellen von Informationen. Da Teams meistens auf Bounded
+  Context arbeiten, ist die Grafik allerdings in Ordnung.
+
 * 11.2.4 "Es gibt also keine weiteren Header, wie dies bei vielen
   anderen MOMs der Fall ist." Tatsächlich unterstützt Kafka
   mittlerweile Header.
