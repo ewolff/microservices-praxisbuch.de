@@ -22,6 +22,9 @@ Errata
   Eureka auf einem beliebigen Java-Webserver ausgeführt werden." Der
   Eureka-Server ist ein JAR. Eureka kann auch als WAR ausgeliefert
   werden. Das implementiert das Beispiel aber nicht.
+  
+* 15 Das Beispiel benutzt Hystrix nicht mehr, da Hystrix mittlerweile
+  nicht mehr weiterentwickelt wird.
 
 * 15.8 "Sonst muss der Microservice explizit in Eureka gesucht
 werden." Er müsste in *Consul* gesucht werden, nicht in Eureka.
