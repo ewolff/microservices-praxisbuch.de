@@ -36,5 +36,8 @@ neuen Service zum Container eureka." Der Link muss zum Container
 * 15.8 "Beobachte die Logs des Order-Microservice mit docker logs -f
 ms_order_1" Der Container heißt *msconsul_order_1*.
 
+* 17 Das Beispiel benutzt Hystrix nicht mehr, da Hystrix mittlerweile
+  nicht mehr weiterentwickelt wird.
+
 * 17.3 Im Listing steht `kubectl run apache`. Es sollte `kubectl run
   catalog` heißen.
