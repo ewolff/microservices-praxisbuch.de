@@ -29,16 +29,16 @@ Auch als E-Book erhältlich
 
 <center>
 <p>
-<a href="https://www.dpunkt.de/book_details.php?id=13065&ref=1008"><img
-      src="https://www.dpunkt.de/common/images/cover_masterid/300/13065.jpg" width="120"
+<a href="https://dpunkt.de/produkt/das-microservices-praxisbuch/?ref=1008"><img
+      src="https://dpunkt.de/wp-content/uploads/2020/07/13065-scaled.jpg" width="120"
       alt="Microservices Praxisbuch Cover" />
 </a>
-<a href="http://www.dpunkt.de/book_details.php?id=5026&ref=1008"><img
-      src="https://www.dpunkt.de/common/images/cover_masterid/300/12181.jpg" width="120"
+<a href="https://dpunkt.de/produkt/microservices-2/?ref=1008"><img
+      src="https://dpunkt.de/wp-content/uploads/2019/10/13159-scaled.jpg" width="120"
       alt="Microservices Cover" />
 </a>
-<a href="http://www.dpunkt.de/book_details.php?id=5797&ref=1008"><img
-      src="https://www.dpunkt.de/common/images/cover_masterid/300/12506.jpg" width="120"
+<a href="https://dpunkt.de/produkt/continuous-delivery-3/?ref=1008"><img
+      src="https://dpunkt.de/wp-content/uploads/2020/07/12506.jpg" width="120"
       alt="Continuous Delivery Cover" />
 </a>
 </p>
