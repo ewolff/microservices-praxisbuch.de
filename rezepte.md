@@ -38,11 +38,7 @@ Microservices. Die Beispiele stehen als Code zum Download bereit.
 
 ## Herunterladen
 
-Beim
-[dpunkt-Verlag](https://www.dpunkt.de/material/microservices-rezepte.pdf)
-gibt es die Microservices-Rezepte als kostenloses PDF.
-
-Das eBook gibt es außerdem kostenlos bei Leanpub in den Formaten PDF,
+Das eBook gibt es kostenlos bei Leanpub in den Formaten PDF,
 ePub und
 Mobi (Kindle). Das eBook ist nicht durch DRM (digital rights
 management) geschützt.
