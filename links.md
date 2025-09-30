@@ -9,6 +9,6 @@ Microservices-Praxisbuch - Links
 
 Hier noch einige Links:
 
-* [INNOQ](http://innoq.com) ist der Arbeitgeber des Autors
+* [SWAGLab](http://swaglab.rocks) ist der Arbeitgeber des Autors
 
 * [Eberhard Wolff Homepage](http://ewolff.com)
